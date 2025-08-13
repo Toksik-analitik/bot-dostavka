@@ -1,0 +1,71 @@
+{
+    "categories": [
+        {
+            "id": "pizza",
+            "name": "Пицца",
+            "items": [
+                {
+                    "id": "p_01",
+                    "name": "Пепперони",
+                    "description": "Классическая пицца с пикантной колбаской пепперони и моцареллой.",
+                    "price": 550,
+                    "image": "images/pepperoni.jpg"
+                },
+                {
+                    "id": "p_02",
+                    "name": "Маргарита",
+                    "description": "Традиционная итальянская пицца с томатами, моцареллой и базиликом.",
+                    "price": 480,
+                    "image": "images/margarita.jpg"
+                },
+                {
+                    "id": "p_03",
+                    "name": "Четыре сыра",
+                    "description": "Изысканное сочетание сыров: моцарелла, пармезан, дорблю и чеддер.",
+                    "price": 620,
+                    "image": "images/four-cheese.jpg"
+                }
+            ]
+        },
+        {
+            "id": "sushi",
+            "name": "Суши и роллы",
+            "items": [
+                {
+                    "id": "s_01",
+                    "name": "Филадельфия",
+                    "description": "Ролл со сливочным сыром, огурцом, авокадо и лососем.",
+                    "price": 450,
+                    "image": "images/philadelphia.jpg"
+                },
+                {
+                    "id": "s_02",
+                    "name": "Калифорния",
+                    "description": "Ролл с мясом краба, авокадо и огурцом, обсыпанный икрой тобико.",
+                    "price": 420,
+                    "image": "images/california.jpg"
+                }
+            ]
+        },
+        {
+            "id": "drinks",
+            "name": "Напитки",
+            "items": [
+                {
+                    "id": "d_01",
+                    "name": "Кола",
+                    "description": "Освежающий газированный напиток.",
+                    "price": 100,
+                    "image": "images/cola.jpg"
+                },
+                {
+                    "id": "d_02",
+                    "name": "Морс клюквенный",
+                    "description": "Натуральный домашний морс из свежей клюквы.",
+                    "price": 120,
+                    "image": "images/juice.jpg"
+                }
+            ]
+        }
+    ]
+}
